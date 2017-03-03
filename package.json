@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React Boilerplate using Brian Holt's tutorial",
   "main": "index.js",
-  "author": "Daniel Nguyen <dnguyensr@gmail.com>",
+  "author": "Daniel Nguyen <danielnguyensr@gmail.com>",
   "license": "MIT",
   "scripts": {
     "lint": "eslint js/**/*.js webpack.config.js",
