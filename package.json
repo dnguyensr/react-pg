@@ -63,10 +63,7 @@
     "url": "git+https://github.com/dnguyensr/react-pg.git"
   },
   "keywords": [
-    "react",
-    "workshop",
-    "intro",
-    "redux"
+    "react"
   ],
   "bugs": {
     "url": "https://github.com/dnguyensr/react-pg/issues"
